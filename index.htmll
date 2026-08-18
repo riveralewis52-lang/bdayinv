@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geralyn's 13th Birthday Celebration</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fdf2f8;
+            color: #4a154b;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #831843;
+            text-align: center;
+            font-size: 2.2em;
+            margin-bottom: 5px;
+        }
+        .subtitle {
+            text-align: center;
+            font-style: italic;
+            color: #9d174d;
+            margin-bottom: 25px;
+        }
+        .event-details {
+            background-color: #fce7f3;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .event-details p {
+            margin: 8px 0;
+            font-size: 1.1em;
+        }
+        .section-title {
+            color: #831843;
+            border-bottom: 2px solid #fbcfe8;
+            padding-bottom: 5px;
+            margin-top: 30px;
+            font-size: 1.4em;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        @media (max-width: 600px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #fbcfe8;
+            font-style: italic;
+            color: #831843;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <p class="subtitle">Come make unforgettable memories as we celebrate!!!</p>
+    <h1>Geralyn's 13th Birthday</h1>
+
+    <div class="event-details">
+        <p><strong>Date:</strong> Tuesday, October 13, 2026</p>
+        <p><strong>Time:</strong> 4:00 PM</p>
+        <p><strong>Venue:</strong> Belpachi Resort & Event Venue</p>
+        <p>003 Roadrunner st. St. Francis Subd. Phase 2A Meycauayan Bulacan</p>
+    </div>
+
+    <div class="section-title">Program Flow</div>
+    <p><strong>Welcome & Introduction:</strong> The Family & the Birthday Celebrant</p>
+    <p><strong>Opening Prayer:</strong> Erica Rose Guevarra</p>
+    <p><strong>Opening Performance:</strong> From Cousins</p>
+    <p><strong>Special Performance:</strong> Geralyn's Classmates</p>
+    <p><strong>Surprise Performance:</strong> Thee Boys</p>
+    <p><strong>Celebrant Performance:</strong> A performance from the celebrant</p>
+
+    <div class="section-title">13th Candles 🕯️</div>
+    <ol>
+        <li>Red Ashley Pascual</li>
+        <li>Karla May Caingcoy</li>
+        <li>Louise Zeth Balahadia</li>
+        <li>Yhazzmine Esguerra</li>
+        <li>Loussane Dela Pena</li>
+        <li>Brienda Mae Maceda</li>
+        <li>Lexa Monique Sarmiento</li>
+        <li>Maxene Joy Tapagnan</li>
+        <li>Princess Guevarra</li>
+        <li>Althea Pacilan</li>
+        <li>Hillary Dela Cruz</li>
+        <li>Samantha Guevarra</li>
+        <li>Manuella Pascual</li>
+    </ol>
+
+    <div class="grid">
+        <div>
+            <div class="section-title">13th Gifts 🎁</div>
+            <ol>
+                <li>Erica Rose Guevarra</li>
+                <li>Eunice Guevarra</li>
+                <li>Precious Guevarra</li>
+                <li>Bernadette Tandiama</li>
+                <li>Ice Pascual</li>
+                <li>Genalyn Dela Cruz</li>
+                <li>Janelle Diaz</li>
+                <li>Jeanberly Guevarra</li>
+                <li>Amy Rose Rico</li>
+                <li>Abegail Rico</li>
+                <li>Lorraine Guevarra</li>
+                <li>Marjorie Ganacias</li>
+                <li>Rosemarie Foronda</li>
+            </ol>
+        </div>
+
+        <div>
+            <div class="section-title">13th Bills 💵</div>
+            <ol>
+                <li>Genilind Paclipan</li>
+                <li>Marites Lutero</li>
+                <li>Maribel Altoveros</li>
+                <li>Shirley Belangel</li>
+                <li>Marvie Maniti</li>
+                <li>Jerwin Guevarra</li>
+                <li>Elmer Pascual</li>
+                <li>Jeanette Alipio</li>
+                <li>Jin Mizuse</li>
+                <li>Maedeline Abejar</li>
+                <li>Vivian Guevarra</li>
+                <li>Rouselene Guevarra</li>
+                <li>Mary Ann Tandiama</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="section-title">18th Roses 🌹</div>
+    <ol>
+        <li>Roger Dela Cruz Jr.</li>
+        <li>Daniel Dela Cruz</li>
+        <li>Genesis Dela Cruz</li>
+        <li>James Dela Cruz</li>
+        <li>Daniel Tapagnan</li>
+        <li>Rick Guevarra</li>
+        <li>Vladimir Guevarra</li>
+        <li>Aaron Nick Guevarra</li>
+        <li>Ismael Pascual</li>
+        <li>Zyrus Lejarde</li>
+        <li>Johnlloyd Entrampas</li>
+        <li>Gerald Guardario</li>
+        <li>John Benedict Escultura</li>
+        <li>Jake Altoveros</li>
+        <li>Eduardo Guevarra</li>
+        <li>Richard Guevarra</li>
+        <li>Erwin Guevarra</li>
+        <li>Roger Dela Cruz</li>
+    </ol>
+
+    <div class="footer">
+        <h3>Endnote & Gratitude</h3>
+        <p>Thank you for being part of Geralyn's 13th Birthday Celebration. Your presence, love, and warm wishes made this special day even more meaningful.</p>
+        <p>Thank you for celebrating this beautiful milestone with us! ✨</p>
+    </div>
+</div>
+
+</body>
+</html>
